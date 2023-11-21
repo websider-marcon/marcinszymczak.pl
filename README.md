@@ -1,4 +1,4 @@
-To view my page on production, **[click here](https://jacekleszczynski.pl/)**
+To view my page on production, **[click here](https://marcinszymczak.pl/)**
 
 ## Features
 
@@ -6,18 +6,18 @@ To view my page on production, **[click here](https://jacekleszczynski.pl/)**
 - All in one page (almost)
 - Fully Responsive
 - Performances and SEO optimizations
-- Ready to be deployed on any Node.js 18.0.0 <= version as static build output. Thanks to https://astro.build/ for easing my job, check up their tech and themes!   
+- Ready to be deployed on any Node.js 18.0.0 <= version as static build output. Thanks to https://astro.build/ for easing my job, check up their tech and themes!
 
 # Steps ▶️
 
 ```
 # Clone this repository
-$ git clone https://github.com/FrontJSack/jacekleszczynski.pl.git
+$ git clone https://github.com/FrontJSack/marcinszymczak.pl.git
 ```
 
 ```
 # Go into the repository
-$ jacekleszczynski.pl (feel free to fork and change the name of course)
+$ marcinszymczak.pl (feel free to fork and change the name of course)
 ```
 
 ```
